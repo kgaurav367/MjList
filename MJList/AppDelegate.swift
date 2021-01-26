@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MJList
 //
-//  Created by Bellinnov on 25/01/21.
+//  Created by Bellinnov on 26/01/21.
 //  Copyright © 2021 gaurav. All rights reserved.
 //
 
@@ -11,6 +11,8 @@ import UIKit
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
+    var dataArray:Results = Results()
+    var window: UIWindow?
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {

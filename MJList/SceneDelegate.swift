@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  MJList
 //
-//  Created by Bellinnov on 25/01/21.
+//  Created by Bellinnov on 26/01/21.
 //  Copyright © 2021 gaurav. All rights reserved.
 //
 
